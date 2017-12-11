@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\ListCovertAll\ListCovertAll\bin\Debug\ListCovertAll.exe.config
+C:\Users\Y\Desktop\ListCovertAll\ListCovertAll\bin\Debug\ListCovertAll.exe
+C:\Users\Y\Desktop\ListCovertAll\ListCovertAll\bin\Debug\ListCovertAll.pdb
+C:\Users\Y\Desktop\ListCovertAll\ListCovertAll\obj\Debug\ListCovertAll.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\ListCovertAll\ListCovertAll\obj\Debug\ListCovertAll.exe
+C:\Users\Y\Desktop\ListCovertAll\ListCovertAll\obj\Debug\ListCovertAll.pdb

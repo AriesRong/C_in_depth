@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\GenericMethodDemo\GenericMethodDemo\bin\Debug\GenericMethodDemo.exe.config
+C:\Users\Y\Desktop\GenericMethodDemo\GenericMethodDemo\bin\Debug\GenericMethodDemo.exe
+C:\Users\Y\Desktop\GenericMethodDemo\GenericMethodDemo\bin\Debug\GenericMethodDemo.pdb
+C:\Users\Y\Desktop\GenericMethodDemo\GenericMethodDemo\obj\Debug\GenericMethodDemo.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\GenericMethodDemo\GenericMethodDemo\obj\Debug\GenericMethodDemo.exe
+C:\Users\Y\Desktop\GenericMethodDemo\GenericMethodDemo\obj\Debug\GenericMethodDemo.pdb
