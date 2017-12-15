@@ -4,3 +4,6 @@ C:\Users\Y\Desktop\ListCovertAll\ListCovertAll\bin\Debug\ListCovertAll.pdb
 C:\Users\Y\Desktop\ListCovertAll\ListCovertAll\obj\Debug\ListCovertAll.csprojResolveAssemblyReference.cache
 C:\Users\Y\Desktop\ListCovertAll\ListCovertAll\obj\Debug\ListCovertAll.exe
 C:\Users\Y\Desktop\ListCovertAll\ListCovertAll\obj\Debug\ListCovertAll.pdb
+D:\github\C_in_depth\FirstView\Chapter03\ListCovertAll\ListCovertAll\bin\Debug\ListCovertAll.exe.config
+D:\github\C_in_depth\FirstView\Chapter03\ListCovertAll\ListCovertAll\obj\Debug\ListCovertAll.exe
+D:\github\C_in_depth\FirstView\Chapter03\ListCovertAll\ListCovertAll\obj\Debug\ListCovertAll.pdb

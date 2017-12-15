@@ -4,3 +4,6 @@ C:\Users\Y\Desktop\GenericMethodDemo\GenericMethodDemo\bin\Debug\GenericMethodDe
 C:\Users\Y\Desktop\GenericMethodDemo\GenericMethodDemo\obj\Debug\GenericMethodDemo.csprojResolveAssemblyReference.cache
 C:\Users\Y\Desktop\GenericMethodDemo\GenericMethodDemo\obj\Debug\GenericMethodDemo.exe
 C:\Users\Y\Desktop\GenericMethodDemo\GenericMethodDemo\obj\Debug\GenericMethodDemo.pdb
+D:\github\C_in_depth\FirstView\Chapter03\GenericMethodDemo\GenericMethodDemo\bin\Debug\GenericMethodDemo.exe.config
+D:\github\C_in_depth\FirstView\Chapter03\GenericMethodDemo\GenericMethodDemo\obj\Debug\GenericMethodDemo.exe
+D:\github\C_in_depth\FirstView\Chapter03\GenericMethodDemo\GenericMethodDemo\obj\Debug\GenericMethodDemo.pdb

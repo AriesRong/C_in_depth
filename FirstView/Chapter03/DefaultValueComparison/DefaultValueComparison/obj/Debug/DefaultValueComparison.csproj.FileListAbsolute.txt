@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\DefaultValueComparison\DefaultValueComparison\bin\Debug\DefaultValueComparison.exe.config
+C:\Users\Y\Desktop\DefaultValueComparison\DefaultValueComparison\bin\Debug\DefaultValueComparison.exe
+C:\Users\Y\Desktop\DefaultValueComparison\DefaultValueComparison\bin\Debug\DefaultValueComparison.pdb
+C:\Users\Y\Desktop\DefaultValueComparison\DefaultValueComparison\obj\Debug\DefaultValueComparison.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\DefaultValueComparison\DefaultValueComparison\obj\Debug\DefaultValueComparison.exe
+C:\Users\Y\Desktop\DefaultValueComparison\DefaultValueComparison\obj\Debug\DefaultValueComparison.pdb
